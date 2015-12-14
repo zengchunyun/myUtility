@@ -98,7 +98,7 @@ try:
                     sock.close()
                     flag = False
 
-            if len(session) > 1:
+            if len(session) > 0:
                 sock.send(session)
                 data = sock.recv(1096)
                 print data
