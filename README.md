@@ -1,2 +1,2 @@
 # myUtility
-for remote management server by MTP
+for remote management server
